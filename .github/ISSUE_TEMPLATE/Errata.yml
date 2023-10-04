@@ -49,22 +49,11 @@ body:
         - Swedish (SE)
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: pageno
     attributes:
       label: Page Number or Section
       description: Where was the error located?
-    validations:
-      required: true
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-      default: 0
     validations:
       required: true
   - type: textarea
@@ -72,6 +61,5 @@ body:
     attributes:
       label: Detailed description
       description: Please let us know in detail about this error.
-      render: shell
     validations:
       required: true
