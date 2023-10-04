@@ -36,8 +36,8 @@ body:
       label: What language of the book has this error?
       multiple: false
       options:
-        - Danish (DK)
         - English (EN)
+        - Danish (DK)
         - French (FR)
         - German (DE)
         - Greek (GR)
