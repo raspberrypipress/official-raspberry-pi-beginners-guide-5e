@@ -22,7 +22,7 @@ body:
   - type: dropdown
     id: format
     attributes:
-      label: What format of the book has this error?
+      label: What format of the book has this error? You may select more than one option.
       multiple: true
       options:
         - Print
@@ -34,7 +34,7 @@ body:
     id: language
     attributes:
       label: What language of the book has this error?
-      multiple: true
+      multiple: false
       options:
         - Danish (DK)
         - English (EN)
@@ -60,6 +60,6 @@ body:
     id: description
     attributes:
       label: Detailed description
-      description: Please let us know in detail about this error.
+      description: Please let us know in detail about this error. You can attach screenshots and any supporting files in this field as well.
     validations:
       required: true
