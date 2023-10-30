@@ -4,4 +4,4 @@ Code and resources for The Official Raspberry Pi Beginner's Guide, 5th Edition f
 * Example Code and Resources:
   * [English](https://github.com/raspberrypipress/official-raspberry-pi-beginners-guide-5e/tree/main/en)
 * [Report an issue you've encountered using the book](https://github.com/raspberrypipress/official-raspberry-pi-beginners-guide-5e/issues/new/choose)
-* [Find answers to issues that others have reported](https://github.com/raspberrypipress/official-raspberry-pi-beginners-guide-5e/issues?q=)
+* [Find updates on issues that others have reported](https://github.com/raspberrypipress/official-raspberry-pi-beginners-guide-5e/issues?q=)
