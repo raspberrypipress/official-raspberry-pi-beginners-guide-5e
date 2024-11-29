@@ -14,7 +14,7 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contact Details
+      label: Contact Details (optional, will be publicly viewable)
       description: If you share your email address with us, we may contact you for more information.
       placeholder: ex. email@example.com
     validations:
